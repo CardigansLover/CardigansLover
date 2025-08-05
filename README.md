@@ -10,4 +10,4 @@
 <p align="center">$\color{#e0d971}{\textsf{꩜ ➷ all more information In main account ! ♩ (desc) }}$
 <p align="center">$\color{#EAA851}{\textsf{⁺ 𖥻 𑁯 Socials ᰍ ৴৴ }}$
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=vegazzombie&show_user=header&bg_color=EAA851)
+<p align="center"> <a href="https://www.last.fm/user/vegazzombie"><img src="https://lastfm-recently-played.vercel.app/api?user=vegazzombie&footer_style=compact_stats&count=4&width=400&loved=false&header_style=none&bg_color=EAA851" alt=""></a>
