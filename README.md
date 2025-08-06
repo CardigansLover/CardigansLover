@@ -1,6 +1,6 @@
 # <p align="center"> <img src= "https://i.postimg.cc/QCFDc7Y0/8cb47556-ezgif-com-effects-1.gif" width="600"/> 
 ### <p align="center">  $\color{#e0d971}{\textsf{ ♥︎ CardigansLover ! ⛾}}$
-ㅤ<p align="center"> ![](https://komarev.com/ghpvc/?username=CardigansLover&color=e0d971)
+ㅤ<p align="center"> ![](https://komarev.com/ghpvc/?username=CardigansLover&color=EAA851)
 <p align="center"> <img src= "https://i.postimg.cc/v8hXVj5q/Canvatreatsmebetter2-ezgif-com-optimize-1.gif" width="800"/>
   
 
