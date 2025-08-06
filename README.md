@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://rentry.co/CardigansLover">
-  <img src="https://i.postimg.cc/YqNHXxkV/Untitled118-20250805184343.png" alt="Click me!" width="300" />
+  <img src="https://i.postimg.cc/DyxCyWc0/Untitled118-20250805184949.png" alt="Click me!" width="300" />
 </a>
 
 <p align="center"> <a href="https://www.last.fm/user/vegazzombie"><img src="https://lastfm-recently-played.vercel.app/api?user=vegazzombie&footer_style=compact_stats&count=4&width=400&loved=false&header_style=none&bg_color=EAA851" alt=""></a>
