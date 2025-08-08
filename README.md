@@ -16,4 +16,5 @@
 
 <p align="center"> <a href="https://www.last.fm/user/vegazzombie"><img src="https://lastfm-recently-played.vercel.app/api?user=vegazzombie&footer_style=compact_stats&count=2&width=400&loved=false&header_style=none&bg_color=DA9D4C" alt=""></a>
 
+
   # <p align="center"> <img src= "https://i.postimg.cc/QCFDc7Y0/8cb47556-ezgif-com-effects-1.gif" width="600"/> 
