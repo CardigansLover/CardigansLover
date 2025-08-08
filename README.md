@@ -12,7 +12,11 @@
 <p align="center">
 <a href="https://rentry.co/CardigansLover">
   <img src="https://i.postimg.cc/1tr1MvH5/Untitled118-20250807172137.png" alt="Click me!" width="300" />
+
+<a href="https://cardiganslover.straw.page/">
+  <img src="https://i.postimg.cc/MZt9wbCh/Untitled118-20250808055912.png" alt="Click me!" width="300" />
 </a>
+
 
 <p align="center"> <a href="https://www.last.fm/user/vegazzombie"><img src="https://lastfm-recently-played.vercel.app/api?user=vegazzombie&footer_style=compact_stats&count=2&width=400&loved=false&header_style=none&bg_color=DA9D4C" alt=""></a>
 
