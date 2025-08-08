@@ -1,9 +1,8 @@
 # <p align="center"> <img src= "https://i.postimg.cc/QCFDc7Y0/8cb47556-ezgif-com-effects-1.gif" width="600"/> 
 
 ### <p align="center">  $\color{#e0d971}{\textsf{ ♥︎ CardigansLover ! ⛾}}$
-ㅤ<p align="center"> ![](https://komarev.com/ghpvc/?username=CardigansLover&color=e0d971)
+ㅤ<p align="center"> ![](https://komarev.com/ghpvc/?username=CardigansLover&color=e0d971&style=flat&label=(˶ˆᗜˆ˵)_hii!!_)
 <p align="center"> <img src= "https://i.postimg.cc/v8hXVj5q/Canvatreatsmebetter2-ezgif-com-optimize-1.gif" width="800"/>
-
   
 <p align="center">$\color{#e0d971}{\textsf{ᘡ 1.9.9 ↣ Dani ⌇⌇ ⛯}}$
 <p align="center">$\color{#EAA851}{\textsf{Multifandom + C+H ✻ Talk freely! ៸៸៸ I block freely ꪆꪆ}}$
